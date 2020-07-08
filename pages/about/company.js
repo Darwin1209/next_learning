@@ -1,4 +1,4 @@
-export default function company() {
+export default function Company() {
   return (
     <main>
       <h1>company page</h1>
