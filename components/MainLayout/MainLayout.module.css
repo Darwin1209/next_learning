@@ -1,0 +1,23 @@
+.wrapper {
+  width: 1280px;
+  margin: 0 auto;
+  padding-top: 80px;
+}
+
+.main {
+  background-color: red;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80px;
+
+  font-size: 20px;
+  background-color: darkblue;
+}
+
+.navigation a {
+  color: #ffffff;
+}
