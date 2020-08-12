@@ -14,6 +14,9 @@ export default function MainLayout({ children, title = "My best App" }) {
         <Link href="/">
           <a>Home</a>
         </Link>
+        <Link href="/posts">
+          <a>Posts</a>
+        </Link>
         <Link href="/about">
           <a>About</a>
         </Link>

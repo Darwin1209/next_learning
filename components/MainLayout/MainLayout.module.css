@@ -1,11 +1,12 @@
 .wrapper {
-  width: 1280px;
-  margin: 0 auto;
-  padding-top: 80px;
 }
 
 .main {
-  background-color: red;
+  width: 1280px;
+  margin: 0 auto;
+  margin-top: 80px;
+
+  font-size: 24px;
 }
 
 .navigation {
@@ -15,6 +16,7 @@
   height: 80px;
 
   font-size: 20px;
+  color: #ffffff;
   background-color: darkblue;
 }
 
